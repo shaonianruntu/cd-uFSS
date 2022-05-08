@@ -8,6 +8,11 @@ Entrance Time: September, 2019
 Graduation Time: June, 2022
 ```
 
+Hoping can make some contributions to the development of **Unsupervised Image Translation** and **Deep Learning**.
+
+And thanks for the open source courses, open source papers, and open source codes that have helped me a lot in my learning and growth.
+If this project is helpful to you. I hope you can pass on the spirit of open source.
+
 ---
 
 See [Co-GAN]() and [MMConv-GAN]() for detailed codes, waiting for open source.
