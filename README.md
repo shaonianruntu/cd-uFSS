@@ -1,8 +1,19 @@
-# 基于跨域特征学习与融合的无监督人脸画像合成
+# Unsupervised Face Sketch Synthesis Based On Cross-domain Feature Learning And Fusion (cd-uFSS)
 
-硕士研究生毕业论文
+Dissertation Submitted to Hangzhou Dianzi University for the Degree of Master.
 
-详细代码见 [Co-GAN]() 和 [MMConv-GAN]()，等待开源。
+```
+Candidate: Nan Fang
+
+Entrance Time: September, 2019
+
+Graduation Time: June, 2022
+
+```
+
+---
+
+See [Co-GAN]() and [MMConv-GAN]() for detailed codes, waiting for open source.
 
 ## Requirement
 
@@ -42,5 +53,5 @@ The pretrained models is covered by Creative Commons BY-NC 4.0 license by NAVER 
 If you find this work useful for your research, please cite our paper:
 
 ```
-【知网地址】
+(Link to CNKI)[]
 ```
