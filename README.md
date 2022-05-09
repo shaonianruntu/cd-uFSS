@@ -1,4 +1,4 @@
-# Unsupervised Face Sketch Synthesis Based On Cross-domain Feature Learning And Fusion (cd-uFSS)
+# Unsupervised Face Sketch Synthesis based on Cross-domain Feature Learning and Fusion (cd-uFSS)
 
 Dissertation Submitted to Hangzhou Dianzi University for the Degree of Master.
 
